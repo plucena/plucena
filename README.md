@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am European/Brazilian hands on Blockchain guy with 10+ years of experience building and leading high-performing global software engineering teams. 
+I am a hands on Blockchain guy with 10+ years of experience building and leading high-performing global software engineering teams. 
 
 For the past 6+ years, I've been deeply involved in the Web3 space, contributing to smart contract development, and protocol development using Solidity, Go, Java, Python, and TypeScript, resulting in 4 granted blockchain patents and contributions to projects on permitioned and public Blockchain networks. 
 
