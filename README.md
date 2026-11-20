@@ -25,3 +25,5 @@ Tech Stack
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-%234F1C71.svg?style=for-the-badge&logo=pmi&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23009FDA.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
